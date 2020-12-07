@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "dependencies": {
-    "babel-eslint": "^10.1.0",
+    "babel-eslint": "*",
     "check": "*",
     "eslint": "*",
     "eslint-config-airbnb": "*",
